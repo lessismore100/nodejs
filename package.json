@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "helloNodejs",
+  "main": "hello.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.16.4",
+    "follow-redirects": "^1.7.0",
+    "nodejs-2019": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steveLYL/nodejs.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "steve",
+  "license": "ISC"
+}
