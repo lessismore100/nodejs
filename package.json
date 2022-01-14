@@ -6,7 +6,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.16.4",
-    "follow-redirects": "^1.7.0",
+    "follow-redirects": "^1.14.7",
     "nodejs-2019": "^1.0.0"
   },
   "devDependencies": {},
